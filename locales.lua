@@ -13,6 +13,20 @@ Locales = {
         ['latest_version'] = 'Latest Version: %s',
         ['outdated'] = 'You are currently running an outdated version, please update to version %s',
     },
+    ['fr'] = {
+        ['conquering'] = ' Vous êtes en train de conquérir un territoire...',
+        ['wait_for_points'] = 'Pour capturer des points, vous devez rester dans la zone.',
+        ['not_enough_time'] = 'Vous n\'êtes pas resté assez longtemps dans la zone de conflit.',
+        ['captured_points'] = 'Vous avez capturé un point de zone pour votre gang, vous avez : %s/3',
+        ['captured_zone'] = 'C\'est Faite !! Vous avez capturé la zone et votre gang gagne des points. +%s$!',
+        ['recently_taken'] = 'Quelqu\'un a récemment capturé un point ici, restez ici.',
+        -- UPDATES (internal)
+        ['cant_run_versioncheck'] = 'Impossible d\'effectuer une vérification de version pour le moment.',
+        ['latest_version_ok'] = 'Vous utilisez la dernière version.',
+        ['current_version'] = 'Version actuelle : %s',
+        ['latest_version'] = 'Dernière version : %s',
+        ['outdated'] = 'Vous utilisez actuellement une version obsolète, veuillez mettre à jour vers la version %s',
+    },
     ['es'] = {
         ['conquering'] = 'Capturando zona...',
         ['wait_for_points'] = 'Espera un poco para capturar puntos en esta zona.',
