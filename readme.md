@@ -1,4 +1,7 @@
 # xex_gangwars 
+
+> More XeX scripts on [xexstudio.com](https://xexstudio.com/scripts?utm_source=github&utm_campaign=gangwars) · Support: [Discord](https://discord.gg/9yY3Jxnhh8)
+
 Simple script to enable gang wars on any FiveM ESX Server
 
 ## Requirements
